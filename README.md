@@ -106,21 +106,13 @@ The frontend will run on `http://localhost:5173` and the backend on the port set
 | GET | `/api/auth/getcompanies` | List registered companies (tenants) |
 | GET | `/api/auth/google` | Start Google OAuth flow |
 | GET | `/api/auth/google/callback` | Google OAuth callback |
-
 *(Ticket, message, dashboard, and AI endpoints are in progress.)*
-
 ## Roadmap
-
 - [ ] Complete ticket CRUD endpoints
 - [ ] AI-powered ticket triage & auto-resolution
 - [ ] Real-time chat via Socket.IO
 - [ ] Email notifications
 - [ ] Admin analytics dashboard
-
 ## Contributing
-
 This is a personal learning project. Suggestions and PRs are welcome.
-
 ## License
-
-ISC
