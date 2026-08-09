@@ -95,7 +95,6 @@ npm install
 npm run dev
 ```
 
-The frontend will run on `http://localhost:5173` and the backend on the port set in `.env`.
 
 ## API Overview
 
